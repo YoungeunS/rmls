@@ -2,7 +2,7 @@
 Title: rmls\
 Version: 0.0.0.9001\
 Author: Youngeun Shin <shinyoungeun1130@gmail.com>\
-Description: R shiny forecasting for Multiple regression
+Description: R shiny forecasting tool for Multiple regression
 
 ## Installation
 
