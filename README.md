@@ -8,7 +8,7 @@ Description: R shiny forecasting tool for Multiple regression
 
 ``` r
 library(devtools)
-install_github('rmls','YoungeunS')
+install_github("YoungeunS/rmls")
 ```
 
 ## Imports
