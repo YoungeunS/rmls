@@ -18,8 +18,7 @@ Depends:\
 	shiny (>= 1.0.5)
 	
 ``` r
-library(rmls);library(shiny);library(readr);library(dplyr);library(tidyr);library(tseries);library(forecast);library(data.table);library(nlstools);library(minpack.lm);library(propagate);library(ggplot2);library(shinydashboard);library(reshape2);library(rsconnect);library(cowplot);library(grid);library(ggthemes);library(DT);library(stats);library(plotly);library(formattable)
-library(manipulate);library(Hmisc)
+library(rmls);library(shiny);library(readr);library(dplyr);library(tidyr);library(shinydashboard);library(reshape2);library(DT);library(stats);library(plotly);library(manipulate);library(Hmisc);library(usdm);library(car);library(plm);library(MASS)
 ```
 
 
